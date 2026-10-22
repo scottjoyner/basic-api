@@ -1,3 +1,9 @@
+<!-- repo-entrypoint-guide:start -->
+> **Purpose:** Small Express-based API starter for Vercel deployments. Begin with [Usage](#usage) and [Project Structure](#project-structure); review the actual functions and configuration before adapting the template.
+> 
+> **Deployment note:** Examples and public routes are not a security boundary. Configure authentication, request validation, error handling, and environment variables before putting an API on a public domain.
+<!-- repo-entrypoint-guide:end -->
+
 ## Vercel Express API boilerplate
 
 Opinionated Node.js template for creating **simple** APIs and PoCs using Express<sup>1</sup> on Vercel's serverless platform.
